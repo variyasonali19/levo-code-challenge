@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/levo-code-challenge/static/css/main.52e8cda0.chunk.css",
-    "main.js": "/levo-code-challenge/static/js/main.e197b12a.chunk.js",
-    "main.js.map": "/levo-code-challenge/static/js/main.e197b12a.chunk.js.map",
+    "main.js": "/levo-code-challenge/static/js/main.1e987e9a.chunk.js",
+    "main.js.map": "/levo-code-challenge/static/js/main.1e987e9a.chunk.js.map",
     "runtime-main.js": "/levo-code-challenge/static/js/runtime-main.1c967658.js",
     "runtime-main.js.map": "/levo-code-challenge/static/js/runtime-main.1c967658.js.map",
     "static/js/2.4b893190.chunk.js": "/levo-code-challenge/static/js/2.4b893190.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1c967658.js",
     "static/js/2.4b893190.chunk.js",
     "static/css/main.52e8cda0.chunk.css",
-    "static/js/main.e197b12a.chunk.js"
+    "static/js/main.1e987e9a.chunk.js"
   ]
 }
