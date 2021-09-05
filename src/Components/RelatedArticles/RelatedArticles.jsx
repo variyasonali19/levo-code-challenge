@@ -1,11 +1,11 @@
 import randomColor from "randomcolor";
 import React, { useEffect, useState } from 'react';
 import { Button, Row, Spinner } from 'react-bootstrap';
-import { getRelatedArticlesApi } from '../DummyData/DummyData';
+import { getRelatedArticlesApi } from '../APICall/APICall';
 import Article from '../Article/Article';
 
 const RelatedArticles = () => {
-  const ArticleBatchSize = 5; // define number of articles to load on each "READ MORE" click
+  const ArticleBatchSize = 3; // define number of articles to load on each "READ MORE" click
   const [relatedArticles, setRelatedArticles] = useState([]);
   const [articlesToShow, setArticlesToShow] = useState(ArticleBatchSize);
   const [isArticleExpanded, setIsArticleExpanded] = useState(false);

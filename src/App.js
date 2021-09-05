@@ -1,5 +1,5 @@
 import React from 'react';
-import RelatedArticles from './Components/RelatedArticles/RelatedArticles';
+import RelatedArticles from './components/RelatedArticles/RelatedArticles';
 
 function App() {
   return (

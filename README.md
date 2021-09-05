@@ -1,3 +1,6 @@
+# Public URL
+http://variyasonali19.github.io/levo-code-challenge
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
